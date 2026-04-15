@@ -2,8 +2,8 @@
 title: "UNICEF Global Health Indicators: A Data-Driven Analysis"
 subtitle: "Infant Vaccination, Breastfeeding, and Socio-Economic Trends — 2019 Snapshot"
 author:
-  - name: "Data Analytics Report"
-    affiliation: "Dublin City University — MSc Business Analytics"
+  - name: "Arpitha Honnal Venkatesh (A00054193)"
+    affiliation: "Dublin City University — MSc Business Management"
 date: "2019 (Data Reference Year)"
 format:
   html:
