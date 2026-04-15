@@ -1,0 +1,1386 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Ever breastfed (0-23 months),2015,98.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Afghanistan,AF,AFG,4,Ever breastfed (0-23 months),2022,95.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Afghanistan,AF,AFG,4,Ever breastfed (0-23 months),2015,97.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Afghanistan,AF,AFG,4,Ever breastfed (0-23 months),2022,95.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Afghanistan,AF,AFG,4,Ever breastfed (0-23 months),2015,97.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Afghanistan,AF,AFG,4,Ever breastfed (0-23 months),2018,98.6,Total,Units,%,Reported,,Middle of fieldwork,Total
+Afghanistan,AF,AFG,4,Ever breastfed (0-23 months),2022,95.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Albania,AL,ALB,8,Ever breastfed (0-23 months),2009,96.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Albania,AL,ALB,8,Ever breastfed (0-23 months),2017,93.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Albania,AL,ALB,8,Ever breastfed (0-23 months),2009,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Albania,AL,ALB,8,Ever breastfed (0-23 months),2017,93.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Albania,AL,ALB,8,Ever breastfed (0-23 months),2005,94.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Albania,AL,ALB,8,Ever breastfed (0-23 months),2009,97.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Albania,AL,ALB,8,Ever breastfed (0-23 months),2017,93.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Algeria,DZ,DZA,12,Ever breastfed (0-23 months),2019,87.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Algeria,DZ,DZA,12,Ever breastfed (0-23 months),2019,86.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Algeria,DZ,DZA,12,Ever breastfed (0-23 months),2012,89.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Algeria,DZ,DZA,12,Ever breastfed (0-23 months),2019,87.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Angola,AO,AGO,24,Ever breastfed (0-23 months),2015,95.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Angola,AO,AGO,24,Ever breastfed (0-23 months),2015,94.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Angola,AO,AGO,24,Ever breastfed (0-23 months),2007,95.0,Total,Units,%,Reported,,Middle of fieldwork,Total
+Angola,AO,AGO,24,Ever breastfed (0-23 months),2015,94.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Argentina,AR,ARG,32,Ever breastfed (0-23 months),2011,95.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Argentina,AR,ARG,32,Ever breastfed (0-23 months),2018,96.9,Total,Units,%,Reported,,Middle of fieldwork,Total
+Armenia,AM,ARM,51,Ever breastfed (0-23 months),2000,87.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Armenia,AM,ARM,51,Ever breastfed (0-23 months),2005,96.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Armenia,AM,ARM,51,Ever breastfed (0-23 months),2010,98.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Armenia,AM,ARM,51,Ever breastfed (0-23 months),2016,96.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Armenia,AM,ARM,51,Ever breastfed (0-23 months),2000,92.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Armenia,AM,ARM,51,Ever breastfed (0-23 months),2005,95.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Armenia,AM,ARM,51,Ever breastfed (0-23 months),2010,95.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Armenia,AM,ARM,51,Ever breastfed (0-23 months),2016,97.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Armenia,AM,ARM,51,Ever breastfed (0-23 months),2000,90.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Armenia,AM,ARM,51,Ever breastfed (0-23 months),2005,96.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Armenia,AM,ARM,51,Ever breastfed (0-23 months),2010,97.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Armenia,AM,ARM,51,Ever breastfed (0-23 months),2016,96.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Australia,AU,AUS,36,Ever breastfed (0-23 months),2017,90.4,Total,Units,%,Adjusted,,Middle of fieldwork,Total
+Azerbaijan,AZ,AZE,31,Ever breastfed (0-23 months),2006,86.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Azerbaijan,AZ,AZE,31,Ever breastfed (0-23 months),2023,89.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Azerbaijan,AZ,AZE,31,Ever breastfed (0-23 months),2006,86.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Azerbaijan,AZ,AZE,31,Ever breastfed (0-23 months),2023,94.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Azerbaijan,AZ,AZE,31,Ever breastfed (0-23 months),2006,86.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Azerbaijan,AZ,AZE,31,Ever breastfed (0-23 months),2023,91.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2004,98.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2007,99.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2011,97.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2014,96.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2018,97.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2019,98.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2022,96.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2004,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2007,98.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2011,96.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2014,96.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2018,97.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2019,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2022,97.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2004,98.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2006,98.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2007,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2011,96.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2013,97.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2014,96.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2018,97.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2019,98.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bangladesh,BD,BGD,50,Ever breastfed (0-23 months),2022,97.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Barbados,BB,BRB,52,Ever breastfed (0-23 months),2012,93.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Belarus,BY,BLR,112,Ever breastfed (0-23 months),2019,91.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Belarus,BY,BLR,112,Ever breastfed (0-23 months),2019,88.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Belarus,BY,BLR,112,Ever breastfed (0-23 months),2005,93.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Belarus,BY,BLR,112,Ever breastfed (0-23 months),2012,92.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Belarus,BY,BLR,112,Ever breastfed (0-23 months),2019,89.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Belize,BZ,BLZ,84,Ever breastfed (0-23 months),2006,93.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Belize,BZ,BLZ,84,Ever breastfed (0-23 months),2011,91.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Belize,BZ,BLZ,84,Ever breastfed (0-23 months),2015,92.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Benin,BJ,BEN,204,Ever breastfed (0-23 months),2001,97.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Benin,BJ,BEN,204,Ever breastfed (0-23 months),2006,97.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Benin,BJ,BEN,204,Ever breastfed (0-23 months),2012,94.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Benin,BJ,BEN,204,Ever breastfed (0-23 months),2018,97.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Benin,BJ,BEN,204,Ever breastfed (0-23 months),2001,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Benin,BJ,BEN,204,Ever breastfed (0-23 months),2006,97.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Benin,BJ,BEN,204,Ever breastfed (0-23 months),2012,93.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Benin,BJ,BEN,204,Ever breastfed (0-23 months),2018,96.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Benin,BJ,BEN,204,Ever breastfed (0-23 months),2001,97.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Benin,BJ,BEN,204,Ever breastfed (0-23 months),2006,97.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Benin,BJ,BEN,204,Ever breastfed (0-23 months),2012,93.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Benin,BJ,BEN,204,Ever breastfed (0-23 months),2014,97.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Benin,BJ,BEN,204,Ever breastfed (0-23 months),2018,96.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bhutan,BT,BTN,64,Ever breastfed (0-23 months),2015,99.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bhutan,BT,BTN,64,Ever breastfed (0-23 months),2023,97.9,Female,Units,%,Reported,,Middle of fieldwork,Total
+Bhutan,BT,BTN,64,Ever breastfed (0-23 months),2015,98.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bhutan,BT,BTN,64,Ever breastfed (0-23 months),2023,98.2,Male,Units,%,Reported,,Middle of fieldwork,Total
+Bhutan,BT,BTN,64,Ever breastfed (0-23 months),2010,98.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bhutan,BT,BTN,64,Ever breastfed (0-23 months),2015,99.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bhutan,BT,BTN,64,Ever breastfed (0-23 months),2023,98.0,Total,Units,%,Reported,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),1989,97.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),1994,96.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),1998,97.8,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),2003,97.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),2008,98.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),2016,96.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),1989,95.6,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),1994,96.3,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),1998,95.6,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),2003,96.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),2008,97.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),2016,95.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),1989,96.4,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),1994,96.2,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),1998,96.7,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),2003,97.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),2008,97.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),2012,98.2,Total,Units,%,Reported,,Middle of fieldwork,Total
+Bolivia,BO,BOL,68,Ever breastfed (0-23 months),2016,95.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bosnia and Herzegovina,BA,BIH,70,Ever breastfed (0-23 months),2006,92.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Bosnia and Herzegovina,BA,BIH,70,Ever breastfed (0-23 months),2012,95.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Botswana,BW,BWA,72,Ever breastfed (0-23 months),2017,80.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Botswana,BW,BWA,72,Ever breastfed (0-23 months),2017,83.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Botswana,BW,BWA,72,Ever breastfed (0-23 months),2007,76.3,Total,Units,%,Reported,,Middle of fieldwork,Total
+Botswana,BW,BWA,72,Ever breastfed (0-23 months),2017,81.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Brazil,BR,BRA,76,Ever breastfed (0-23 months),1986,88.7,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Brazil,BR,BRA,76,Ever breastfed (0-23 months),1996,94.7,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Brazil,BR,BRA,76,Ever breastfed (0-23 months),2019,95.4,Female,Units,%,Reported,,Middle of fieldwork,Total
+Brazil,BR,BRA,76,Ever breastfed (0-23 months),1986,89.6,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Brazil,BR,BRA,76,Ever breastfed (0-23 months),1996,93.2,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Brazil,BR,BRA,76,Ever breastfed (0-23 months),2019,96.9,Male,Units,%,Reported,,Middle of fieldwork,Total
+Brazil,BR,BRA,76,Ever breastfed (0-23 months),1986,89.2,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Brazil,BR,BRA,76,Ever breastfed (0-23 months),1996,94.0,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Brazil,BR,BRA,76,Ever breastfed (0-23 months),2019,96.2,Total,Units,%,Reported,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),1993,98.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),1999,98.8,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2003,99.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2010,99.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2019,99.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2020,99.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2021,94.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),1993,98.4,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),1999,98.2,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2003,98.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2010,99.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2019,99.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2020,98.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2021,95.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),1993,98.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),1999,98.5,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2003,98.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2006,98.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2010,99.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2019,99.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2020,98.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burkina Faso,BF,BFA,854,Ever breastfed (0-23 months),2021,94.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burundi,BI,BDI,108,Ever breastfed (0-23 months),1987,98.5,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Burundi,BI,BDI,108,Ever breastfed (0-23 months),2010,99.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burundi,BI,BDI,108,Ever breastfed (0-23 months),2016,99.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burundi,BI,BDI,108,Ever breastfed (0-23 months),2019,98.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burundi,BI,BDI,108,Ever breastfed (0-23 months),1987,98.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Burundi,BI,BDI,108,Ever breastfed (0-23 months),2010,98.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burundi,BI,BDI,108,Ever breastfed (0-23 months),2016,98.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burundi,BI,BDI,108,Ever breastfed (0-23 months),2019,98.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burundi,BI,BDI,108,Ever breastfed (0-23 months),1987,98.7,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Burundi,BI,BDI,108,Ever breastfed (0-23 months),2010,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burundi,BI,BDI,108,Ever breastfed (0-23 months),2016,98.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burundi,BI,BDI,108,Ever breastfed (0-23 months),2019,98.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Burundi,BI,BDI,108,Ever breastfed (0-23 months),2020,98.9,Total,Units,%,Reported,,Middle of fieldwork,Total
+Cape Verde,CV,CPV,132,Ever breastfed (0-23 months),2018,96.3,Female,Units,%,Reported,,Middle of fieldwork,Total
+Cape Verde,CV,CPV,132,Ever breastfed (0-23 months),2018,96.9,Male,Units,%,Reported,,Middle of fieldwork,Total
+Cape Verde,CV,CPV,132,Ever breastfed (0-23 months),2005,95.6,Total,Units,%,Reported,,Middle of fieldwork,Total
+Cape Verde,CV,CPV,132,Ever breastfed (0-23 months),2018,96.6,Total,Units,%,Reported,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2000,97.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2005,97.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2010,96.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2014,95.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2021,80.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2000,95.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2005,97.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2010,96.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2014,96.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2021,82.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),1998,96.6,Total,Units,%,Reported,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2000,96.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2005,97.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2010,96.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2014,96.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cambodia,KH,KHM,116,Ever breastfed (0-23 months),2021,81.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),1991,97.9,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),1998,98.1,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),2004,97.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),2011,96.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),2018,91.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),1991,97.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),1998,96.8,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),2004,95.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),2011,97.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),2018,92.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),1991,97.9,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),1998,97.5,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),2004,96.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),2006,98.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),2011,96.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),2014,95.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cameroon,CM,CMR,120,Ever breastfed (0-23 months),2018,91.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Central African Republic,CF,CAF,140,Ever breastfed (0-23 months),1994,98.9,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Central African Republic,CF,CAF,140,Ever breastfed (0-23 months),2019-03,97.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Central African Republic,CF,CAF,140,Ever breastfed (0-23 months),2019-10,96.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Central African Republic,CF,CAF,140,Ever breastfed (0-23 months),1994,98.3,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Central African Republic,CF,CAF,140,Ever breastfed (0-23 months),2019-03,97.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Central African Republic,CF,CAF,140,Ever breastfed (0-23 months),2019-10,96.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Central African Republic,CF,CAF,140,Ever breastfed (0-23 months),1994,98.6,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Central African Republic,CF,CAF,140,Ever breastfed (0-23 months),2006,96.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Central African Republic,CF,CAF,140,Ever breastfed (0-23 months),2010,94.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Central African Republic,CF,CAF,140,Ever breastfed (0-23 months),2019-03,97.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Central African Republic,CF,CAF,140,Ever breastfed (0-23 months),2019-10,96.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),1997,99.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2004,99.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2015,98.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2019-08,88.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2019-09,94.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2020,91.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2022,98.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),1997,98.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2004,98.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2015,97.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2019-08,89.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2019-09,94.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2020,89.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2022,97.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),1997,98.6,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2004,98.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2010,95.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2015,98.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2019-08,89.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2019-09,94.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2020,90.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Chad,TD,TCD,148,Ever breastfed (0-23 months),2022,97.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+China,CN,CHN,156,Ever breastfed (0-23 months),2017,93.9,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+China,CN,CHN,156,Ever breastfed (0-23 months),2017,93.4,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+China,CN,CHN,156,Ever breastfed (0-23 months),2008,96.1,Total,Units,%,Reported,,Middle of fieldwork,Total
+China,CN,CHN,156,Ever breastfed (0-23 months),2017,93.6,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),1986,93.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),1990,94.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),1995,96.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),2000,96.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),2005,97.3,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),2010,97.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),2016,95.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),1986,93.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),1990,95.3,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),1995,96.4,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),2000,96.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),2005,96.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),2010,96.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),2016,95.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),1986,93.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),1990,94.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),1995,96.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),2000,96.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),2005,97.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),2010,96.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Colombia,CO,COL,170,Ever breastfed (0-23 months),2016,95.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Comoros,KM,COM,174,Ever breastfed (0-23 months),1996,97.5,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Comoros,KM,COM,174,Ever breastfed (0-23 months),2012,92.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Comoros,KM,COM,174,Ever breastfed (0-23 months),2022,92.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Comoros,KM,COM,174,Ever breastfed (0-23 months),1996,97.2,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Comoros,KM,COM,174,Ever breastfed (0-23 months),2012,93.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Comoros,KM,COM,174,Ever breastfed (0-23 months),2022,94.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Comoros,KM,COM,174,Ever breastfed (0-23 months),1996,97.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Comoros,KM,COM,174,Ever breastfed (0-23 months),2012,93.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Comoros,KM,COM,174,Ever breastfed (0-23 months),2022,93.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Congo,CG,COG,178,Ever breastfed (0-23 months),2005,96.6,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Congo,CG,COG,178,Ever breastfed (0-23 months),2011,94.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Congo,CG,COG,178,Ever breastfed (0-23 months),2005,96.1,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Congo,CG,COG,178,Ever breastfed (0-23 months),2011,94.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Congo,CG,COG,178,Ever breastfed (0-23 months),2005,96.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Congo,CG,COG,178,Ever breastfed (0-23 months),2011,94.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Congo,CG,COG,178,Ever breastfed (0-23 months),2014,96.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Costa Rica,CR,CRI,188,Ever breastfed (0-23 months),2011,97.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Costa Rica,CR,CRI,188,Ever breastfed (0-23 months),2018,93.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cuba,CU,CUB,192,Ever breastfed (0-23 months),2006,98.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cuba,CU,CUB,192,Ever breastfed (0-23 months),2006,96.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cuba,CU,CUB,192,Ever breastfed (0-23 months),2006,97.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cuba,CU,CUB,192,Ever breastfed (0-23 months),2010,98.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cuba,CU,CUB,192,Ever breastfed (0-23 months),2014,96.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Cuba,CU,CUB,192,Ever breastfed (0-23 months),2019,98.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),1994,98.4,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),1998,98.3,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),2012,96.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),2021,91.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),1994,97.4,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),1998,97.4,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),2012,96.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),2021,91.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),1994,97.9,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),1998,97.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),2006,97.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),2012,96.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),2016,97.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ivory Coast,CI,CIV,384,Ever breastfed (0-23 months),2021,91.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Ever breastfed (0-23 months),2009,98.8,Total,Units,%,Reported,,Middle of fieldwork,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Ever breastfed (0-23 months),2017,99.6,Total,Units,%,Reported,,Middle of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Ever breastfed (0-23 months),2007,97.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Ever breastfed (0-23 months),2013,98.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Ever breastfed (0-23 months),2017,98.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Ever breastfed (0-23 months),2007,96.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Ever breastfed (0-23 months),2013,98.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Ever breastfed (0-23 months),2017,98.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Ever breastfed (0-23 months),2007,97.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Ever breastfed (0-23 months),2010,97.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Ever breastfed (0-23 months),2013,98.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Ever breastfed (0-23 months),2017,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Djibouti,DJ,DJI,262,Ever breastfed (0-23 months),2012,91.1,Total,Units,%,Reported,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),1986,93.0,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),1991,92.9,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),1996,92.8,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),1999,98.0,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),2002,93.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),2007,92.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),2013,90.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),2019,92.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),1986,89.7,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),1991,95.3,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),1996,93.5,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),1999,93.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),2002,91.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),2007,90.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),2013,85.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),2019,91.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),1986,91.4,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),1991,94.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),1996,93.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),1999,95.6,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),2002,92.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),2007,91.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),2013,87.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),2014,91.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Dominican Republic,DO,DOM,214,Ever breastfed (0-23 months),2019,92.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ecuador,EC,ECU,218,Ever breastfed (0-23 months),1987,93.7,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ecuador,EC,ECU,218,Ever breastfed (0-23 months),2019,97.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ecuador,EC,ECU,218,Ever breastfed (0-23 months),2023,95.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ecuador,EC,ECU,218,Ever breastfed (0-23 months),1987,94.3,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ecuador,EC,ECU,218,Ever breastfed (0-23 months),2019,97.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ecuador,EC,ECU,218,Ever breastfed (0-23 months),2023,93.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ecuador,EC,ECU,218,Ever breastfed (0-23 months),1987,94.0,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ecuador,EC,ECU,218,Ever breastfed (0-23 months),1994,95.0,Total,Units,%,Reported,,Middle of fieldwork,Total
+Ecuador,EC,ECU,218,Ever breastfed (0-23 months),2004,96.7,Total,Units,%,Reported,,Middle of fieldwork,Total
+Ecuador,EC,ECU,218,Ever breastfed (0-23 months),2019,97.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ecuador,EC,ECU,218,Ever breastfed (0-23 months),2023,94.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),1988,93.3,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),1992,95.7,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),1995,97.3,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2000,96.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2003,96.4,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2005,95.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2008,95.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2014,95.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),1988,94.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),1992,95.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),1995,96.3,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2000,95.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2003,96.3,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2005,93.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2008,95.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2014,95.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),1988,93.6,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),1992,95.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),1995,96.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2000,96.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2003,96.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2005,94.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2008,95.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2014,95.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Egypt,EG,EGY,818,Ever breastfed (0-23 months),2021,91.3,Total,Units,%,Reported,,Middle of fieldwork,Total
+El Salvador,SV,SLV,222,Ever breastfed (0-23 months),1993,91.2,Total,Units,%,Reported,,Middle of fieldwork,Total
+El Salvador,SV,SLV,222,Ever breastfed (0-23 months),2003,94.4,Total,Units,%,Reported,,Middle of fieldwork,Total
+El Salvador,SV,SLV,222,Ever breastfed (0-23 months),2008,96.1,Total,Units,%,Reported,,Middle of fieldwork,Total
+El Salvador,SV,SLV,222,Ever breastfed (0-23 months),2014,96.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+El Salvador,SV,SLV,222,Ever breastfed (0-23 months),2021,93.3,Total,Units,%,Reported,,Middle of fieldwork,Total
+Eritrea,ER,ERI,232,Ever breastfed (0-23 months),1995,98.3,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Eritrea,ER,ERI,232,Ever breastfed (0-23 months),2002,99.1,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Eritrea,ER,ERI,232,Ever breastfed (0-23 months),1995,99.4,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Eritrea,ER,ERI,232,Ever breastfed (0-23 months),2002,98.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Eritrea,ER,ERI,232,Ever breastfed (0-23 months),1995,98.9,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Eritrea,ER,ERI,232,Ever breastfed (0-23 months),2002,98.5,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Eritrea,ER,ERI,232,Ever breastfed (0-23 months),2010,97.9,Total,Units,%,Reported,,Middle of fieldwork,Total
+Swaziland,SZ,SWZ,748,Ever breastfed (0-23 months),2006,90.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Swaziland,SZ,SWZ,748,Ever breastfed (0-23 months),2006,92.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Swaziland,SZ,SWZ,748,Ever breastfed (0-23 months),2006,91.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Swaziland,SZ,SWZ,748,Ever breastfed (0-23 months),2010,90.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Swaziland,SZ,SWZ,748,Ever breastfed (0-23 months),2014,92.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Swaziland,SZ,SWZ,748,Ever breastfed (0-23 months),2021,94.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2000,96.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2005,96.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2011,98.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2016,97.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2019,97.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2000,97.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2005,97.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2011,96.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2016,96.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2019,93.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2000,97.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2005,97.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2011,97.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2016,96.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ethiopia,ET,ETH,231,Ever breastfed (0-23 months),2019,95.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Fiji,FJ,FJI,242,Ever breastfed (0-23 months),2021,96.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Fiji,FJ,FJI,242,Ever breastfed (0-23 months),2021,97.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Fiji,FJ,FJI,242,Ever breastfed (0-23 months),2021,97.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gabon,GA,GAB,266,Ever breastfed (0-23 months),2000,88.1,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Gabon,GA,GAB,266,Ever breastfed (0-23 months),2012,90.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gabon,GA,GAB,266,Ever breastfed (0-23 months),2020,93.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gabon,GA,GAB,266,Ever breastfed (0-23 months),2000,87.5,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Gabon,GA,GAB,266,Ever breastfed (0-23 months),2012,89.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gabon,GA,GAB,266,Ever breastfed (0-23 months),2020,92.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gabon,GA,GAB,266,Ever breastfed (0-23 months),2000,87.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Gabon,GA,GAB,266,Ever breastfed (0-23 months),2012,89.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gabon,GA,GAB,266,Ever breastfed (0-23 months),2020,93.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gambia,GM,GMB,270,Ever breastfed (0-23 months),2013,98.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gambia,GM,GMB,270,Ever breastfed (0-23 months),2018,99.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gambia,GM,GMB,270,Ever breastfed (0-23 months),2020,97.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gambia,GM,GMB,270,Ever breastfed (0-23 months),2013,98.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gambia,GM,GMB,270,Ever breastfed (0-23 months),2018,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gambia,GM,GMB,270,Ever breastfed (0-23 months),2020,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gambia,GM,GMB,270,Ever breastfed (0-23 months),2006,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gambia,GM,GMB,270,Ever breastfed (0-23 months),2010,97.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gambia,GM,GMB,270,Ever breastfed (0-23 months),2013,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gambia,GM,GMB,270,Ever breastfed (0-23 months),2018,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Gambia,GM,GMB,270,Ever breastfed (0-23 months),2020,98.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Georgia,GE,GEO,268,Ever breastfed (0-23 months),2005,86.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Georgia,GE,GEO,268,Ever breastfed (0-23 months),2009,87.2,Total,Units,%,Reported,,Middle of fieldwork,Total
+Georgia,GE,GEO,268,Ever breastfed (0-23 months),2018,91.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),1988,98.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),1993,97.7,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),1998,97.5,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2003,97.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2008,98.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2014,98.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2017,98.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2022,96.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),1988,97.2,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),1993,97.4,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),1998,98.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2003,97.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2008,98.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2014,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2017,98.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2022,96.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),1988,97.7,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),1993,97.6,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),1998,97.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2003,97.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2006,98.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2008,98.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2011,98.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2014,98.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2017,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ghana,GH,GHA,288,Ever breastfed (0-23 months),2022,96.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),1987,96.6,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),1995,96.4,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),1999,97.6,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),2015,97.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),1987,95.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),1995,96.3,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),1999,97.1,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),2015,97.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),1987,96.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),1995,96.4,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),1999,97.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),2002,96.1,Total,Units,%,Reported,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),2009,96.0,Total,Units,%,Reported,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),2015,97.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guatemala,GT,GTM,320,Ever breastfed (0-23 months),2021,98.3,Total,Units,%,Reported,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),1999,97.1,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),2005,98.7,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),2012,98.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),2016,97.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),2018,92.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),1999,96.2,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),2005,96.7,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),2012,97.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),2016,96.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),2018,92.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),1999,96.6,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),2005,97.7,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),2012,98.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),2016,97.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),2018,92.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guinea,GN,GIN,324,Ever breastfed (0-23 months),2022,95.7,Total,Units,%,Reported,,Middle of fieldwork,Total
+Guinea-Bissau,GW,GNB,624,Ever breastfed (0-23 months),2006,96.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guinea-Bissau,GW,GNB,624,Ever breastfed (0-23 months),2014,98.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guinea-Bissau,GW,GNB,624,Ever breastfed (0-23 months),2019,97.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guyana,GY,GUY,328,Ever breastfed (0-23 months),2009,89.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guyana,GY,GUY,328,Ever breastfed (0-23 months),2019,94.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guyana,GY,GUY,328,Ever breastfed (0-23 months),2009,90.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guyana,GY,GUY,328,Ever breastfed (0-23 months),2019,89.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guyana,GY,GUY,328,Ever breastfed (0-23 months),2006,87.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guyana,GY,GUY,328,Ever breastfed (0-23 months),2009,89.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guyana,GY,GUY,328,Ever breastfed (0-23 months),2014,89.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Guyana,GY,GUY,328,Ever breastfed (0-23 months),2019,91.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),1994,97.3,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),2000,98.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),2006,97.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),2012,96.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),2017,95.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),1994,96.2,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),2000,97.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),2006,97.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),2012,96.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),2017,94.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),1994,96.7,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),2000,98.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),2006,97.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),2012,96.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),2017,95.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Haiti,HT,HTI,332,Ever breastfed (0-23 months),2023,83.3,Total,Units,%,Reported,,Middle of fieldwork,Total
+Honduras,HN,HND,340,Ever breastfed (0-23 months),2006,96.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Honduras,HN,HND,340,Ever breastfed (0-23 months),2012,96.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Honduras,HN,HND,340,Ever breastfed (0-23 months),2019,95.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Honduras,HN,HND,340,Ever breastfed (0-23 months),2006,95.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Honduras,HN,HND,340,Ever breastfed (0-23 months),2012,96.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Honduras,HN,HND,340,Ever breastfed (0-23 months),2019,95.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Honduras,HN,HND,340,Ever breastfed (0-23 months),2001,95.7,Total,Units,%,Reported,,Middle of fieldwork,Total
+Honduras,HN,HND,340,Ever breastfed (0-23 months),2006,96.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Honduras,HN,HND,340,Ever breastfed (0-23 months),2012,96.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Honduras,HN,HND,340,Ever breastfed (0-23 months),2019,95.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),1992,96.5,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),1999,96.9,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),2006,97.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),2015,95.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),2020,96.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),1992,95.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),1999,96.7,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),2006,96.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),2015,95.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),2020,95.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),1992,96.2,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),1999,96.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),2006,97.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),2015,95.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+India,IN,IND,356,Ever breastfed (0-23 months),2020,95.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),1987,95.7,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),1991,96.8,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),1994,97.1,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),1997,96.6,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),2003,96.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),2007,95.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),2012,95.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),2017,95.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),1987,95.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),1991,96.6,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),1994,96.7,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),1997,96.8,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),2003,95.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),2007,94.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),2012,95.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),2017,94.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),1987,95.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),1991,96.7,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),1994,96.9,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),1997,96.7,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),2003,96.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),2007,94.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),2012,95.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Indonesia,ID,IDN,360,Ever breastfed (0-23 months),2017,94.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Iran, Islamic Republic of",IR,IRN,364,Ever breastfed (0-23 months),2010,97.4,Total,Units,%,Reported,,Middle of fieldwork,Total
+Iraq,IQ,IRQ,368,Ever breastfed (0-23 months),2000,95.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Iraq,IQ,IRQ,368,Ever breastfed (0-23 months),2018,93.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Iraq,IQ,IRQ,368,Ever breastfed (0-23 months),2000,96.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Iraq,IQ,IRQ,368,Ever breastfed (0-23 months),2018,93.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Iraq,IQ,IRQ,368,Ever breastfed (0-23 months),2000,96.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Iraq,IQ,IRQ,368,Ever breastfed (0-23 months),2006,94.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Iraq,IQ,IRQ,368,Ever breastfed (0-23 months),2011,92.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Iraq,IQ,IRQ,368,Ever breastfed (0-23 months),2018,93.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jamaica,JM,JAM,388,Ever breastfed (0-23 months),2005,95.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jamaica,JM,JAM,388,Ever breastfed (0-23 months),2011,95.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),1990,96.4,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),1997,96.0,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2002,95.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2007,95.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2009,95.6,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2012,92.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2017,92.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2019,87.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2023,81.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),1990,94.3,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),1997,95.7,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2002,95.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2007,94.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2009,95.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2012,93.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2017,90.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2019,81.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2023,80.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),1990,95.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),1997,95.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2002,95.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2007,94.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2009,95.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2012,93.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2017,91.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2019,84.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Jordan,JO,JOR,400,Ever breastfed (0-23 months),2023,80.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Ever breastfed (0-23 months),1995,97.7,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Ever breastfed (0-23 months),1999,97.6,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Ever breastfed (0-23 months),1995,96.1,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Ever breastfed (0-23 months),1999,95.1,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Ever breastfed (0-23 months),1995,97.0,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Ever breastfed (0-23 months),1999,96.4,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Ever breastfed (0-23 months),2006,96.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Ever breastfed (0-23 months),2010,96.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Ever breastfed (0-23 months),2015,97.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),1989,98.4,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),1993,97.6,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),1998,97.3,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),2003,98.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),2008,97.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),2014,98.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),2022,97.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),1989,97.2,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),1993,97.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),1998,98.2,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),2003,96.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),2008,96.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),2014,98.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),2022,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),1989,97.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),1993,97.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),1998,97.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),2003,97.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),2008,97.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),2014,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kenya,KE,KEN,404,Ever breastfed (0-23 months),2022,98.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kiribati,KI,KIR,296,Ever breastfed (0-23 months),2018,90.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kiribati,KI,KIR,296,Ever breastfed (0-23 months),2018,92.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kiribati,KI,KIR,296,Ever breastfed (0-23 months),2018,91.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),1997,96.0,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),2012,99.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),2018,98.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),2021,96.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),1997,96.3,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),2012,98.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),2018,99.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),2021,97.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),1997,96.2,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),2006,96.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),2012,98.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),2014,97.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),2018,99.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Ever breastfed (0-23 months),2021,96.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Ever breastfed (0-23 months),2000,96.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Ever breastfed (0-23 months),2017,97.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Ever breastfed (0-23 months),2000,96.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Ever breastfed (0-23 months),2017,97.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Ever breastfed (0-23 months),2000,96.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Ever breastfed (0-23 months),2006,97.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Ever breastfed (0-23 months),2011,95.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Ever breastfed (0-23 months),2017,97.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Ever breastfed (0-23 months),2023,97.1,Total,Units,%,Reported,,Middle of fieldwork,Total
+Lebanon,LB,LBN,422,Ever breastfed (0-23 months),2021,84.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lebanon,LB,LBN,422,Ever breastfed (0-23 months),2021,84.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lebanon,LB,LBN,422,Ever breastfed (0-23 months),2004,89.0,Total,Units,%,Reported,,Middle of fieldwork,Total
+Lebanon,LB,LBN,422,Ever breastfed (0-23 months),2021,84.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lebanon,LB,LBN,422,Ever breastfed (0-23 months),2023,86.0,Total,Units,%,Reported,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2004,95.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2009,92.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2014,95.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2018,97.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2024,96.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2004,95.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2009,92.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2014,95.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2018,95.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2024,93.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2004,95.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2009,92.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2014,95.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2018,96.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Lesotho,LS,LSO,426,Ever breastfed (0-23 months),2024,94.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Liberia,LR,LBR,430,Ever breastfed (0-23 months),2007,95.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Liberia,LR,LBR,430,Ever breastfed (0-23 months),2013,98.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Liberia,LR,LBR,430,Ever breastfed (0-23 months),2019,97.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Liberia,LR,LBR,430,Ever breastfed (0-23 months),2007,96.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Liberia,LR,LBR,430,Ever breastfed (0-23 months),2013,97.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Liberia,LR,LBR,430,Ever breastfed (0-23 months),2019,96.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Liberia,LR,LBR,430,Ever breastfed (0-23 months),2007,96.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Liberia,LR,LBR,430,Ever breastfed (0-23 months),2013,98.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Liberia,LR,LBR,430,Ever breastfed (0-23 months),2019,96.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),1992,98.0,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),1997,98.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),2004,99.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),2009,98.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),2018,98.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),2021,97.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),1992,98.1,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),1997,98.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),2004,98.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),2009,98.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),2018,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),2021,97.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),1992,98.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),1997,98.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),2004,98.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),2009,98.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),2012,99.0,Total,Units,%,Reported,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),2018,98.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Madagascar,MG,MDG,450,Ever breastfed (0-23 months),2021,97.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),1992,97.8,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2000,98.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2004,98.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2010,97.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2015,97.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2020,99.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),1992,97.4,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2000,97.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2004,98.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2010,97.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2015,97.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2020,98.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),1992,97.6,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2000,98.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2004,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2006,98.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2010,97.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2014,97.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2015,97.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Malawi,MW,MWI,454,Ever breastfed (0-23 months),2020,99.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Maldives,MV,MDV,462,Ever breastfed (0-23 months),2009,97.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Maldives,MV,MDV,462,Ever breastfed (0-23 months),2017,98.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Maldives,MV,MDV,462,Ever breastfed (0-23 months),2009,97.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Maldives,MV,MDV,462,Ever breastfed (0-23 months),2017,96.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Maldives,MV,MDV,462,Ever breastfed (0-23 months),2009,97.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Maldives,MV,MDV,462,Ever breastfed (0-23 months),2017,97.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),1987,98.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),1996,97.9,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2001,97.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2006,97.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2018,97.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2019,99.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2020,99.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),1987,98.5,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),1996,98.3,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2001,97.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2006,96.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2018,96.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2019,99.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2020,99.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),1987,98.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),1996,98.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2001,97.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2006,96.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2010,98.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2015,95.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2018,96.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2019,99.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mali,ML,MLI,466,Ever breastfed (0-23 months),2020,99.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Marshall Islands,MH,MHL,584,Ever breastfed (0-23 months),2017,86.0,Female,Units,%,Reported,,Middle of fieldwork,Total
+Marshall Islands,MH,MHL,584,Ever breastfed (0-23 months),2017,88.6,Male,Units,%,Reported,,Middle of fieldwork,Total
+Marshall Islands,MH,MHL,584,Ever breastfed (0-23 months),2007,94.5,Total,Units,%,Reported,,Middle of fieldwork,Total
+Marshall Islands,MH,MHL,584,Ever breastfed (0-23 months),2017,87.4,Total,Units,%,Reported,,Middle of fieldwork,Total
+Mauritania,MR,MRT,478,Ever breastfed (0-23 months),2000,97.6,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Mauritania,MR,MRT,478,Ever breastfed (0-23 months),2020,96.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mauritania,MR,MRT,478,Ever breastfed (0-23 months),2000,96.1,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Mauritania,MR,MRT,478,Ever breastfed (0-23 months),2020,95.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mauritania,MR,MRT,478,Ever breastfed (0-23 months),2000,96.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Mauritania,MR,MRT,478,Ever breastfed (0-23 months),2007,94.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mauritania,MR,MRT,478,Ever breastfed (0-23 months),2011,94.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mauritania,MR,MRT,478,Ever breastfed (0-23 months),2015,96.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mauritania,MR,MRT,478,Ever breastfed (0-23 months),2018,94.8,Total,Units,%,Reported,,Middle of fieldwork,Total
+Mauritania,MR,MRT,478,Ever breastfed (0-23 months),2020,96.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mexico,MX,MEX,484,Ever breastfed (0-23 months),2019,95.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mexico,MX,MEX,484,Ever breastfed (0-23 months),2019,95.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mexico,MX,MEX,484,Ever breastfed (0-23 months),2012,93.7,Total,Units,%,Reported,,Middle of fieldwork,Total
+Mexico,MX,MEX,484,Ever breastfed (0-23 months),2015,94.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mexico,MX,MEX,484,Ever breastfed (0-23 months),2019,95.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mexico,MX,MEX,484,Ever breastfed (0-23 months),2021,95.3,Total,Units,%,Reported,,Middle of fieldwork,Total
+Mongolia,MN,MNG,496,Ever breastfed (0-23 months),2016,98.9,Female,Units,%,Reported,,Middle of fieldwork,Total
+Mongolia,MN,MNG,496,Ever breastfed (0-23 months),2018,98.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mongolia,MN,MNG,496,Ever breastfed (0-23 months),2016,96.9,Male,Units,%,Reported,,Middle of fieldwork,Total
+Mongolia,MN,MNG,496,Ever breastfed (0-23 months),2018,97.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mongolia,MN,MNG,496,Ever breastfed (0-23 months),2005,97.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mongolia,MN,MNG,496,Ever breastfed (0-23 months),2010,97.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mongolia,MN,MNG,496,Ever breastfed (0-23 months),2013,98.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mongolia,MN,MNG,496,Ever breastfed (0-23 months),2016,97.9,Total,Units,%,Reported,,Middle of fieldwork,Total
+Mongolia,MN,MNG,496,Ever breastfed (0-23 months),2018,98.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mongolia,MN,MNG,496,Ever breastfed (0-23 months),2023,97.6,Total,Units,%,Reported,,Middle of fieldwork,Total
+Montenegro,ME,MNE,499,Ever breastfed (0-23 months),2005,89.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Montenegro,ME,MNE,499,Ever breastfed (0-23 months),2013,88.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Montenegro,ME,MNE,499,Ever breastfed (0-23 months),2018,86.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Montenegro,ME,MNE,499,Ever breastfed (0-23 months),2022,75.5,Total,Units,%,Reported,,Middle of fieldwork,Total
+Morocco,MA,MAR,504,Ever breastfed (0-23 months),1987,94.3,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Morocco,MA,MAR,504,Ever breastfed (0-23 months),1992,95.9,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Morocco,MA,MAR,504,Ever breastfed (0-23 months),2003,96.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Morocco,MA,MAR,504,Ever breastfed (0-23 months),1987,95.6,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Morocco,MA,MAR,504,Ever breastfed (0-23 months),1992,95.6,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Morocco,MA,MAR,504,Ever breastfed (0-23 months),2003,94.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Morocco,MA,MAR,504,Ever breastfed (0-23 months),1987,94.9,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Morocco,MA,MAR,504,Ever breastfed (0-23 months),1992,95.7,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Morocco,MA,MAR,504,Ever breastfed (0-23 months),2003,95.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Morocco,MA,MAR,504,Ever breastfed (0-23 months),2011,96.6,Total,Units,%,Reported,,Middle of fieldwork,Total
+Morocco,MA,MAR,504,Ever breastfed (0-23 months),2017,97.1,Total,Units,%,Reported,,Middle of fieldwork,Total
+Mozambique,MZ,MOZ,508,Ever breastfed (0-23 months),1997,98.3,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Mozambique,MZ,MOZ,508,Ever breastfed (0-23 months),2003,98.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mozambique,MZ,MOZ,508,Ever breastfed (0-23 months),2011,97.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mozambique,MZ,MOZ,508,Ever breastfed (0-23 months),2022,96.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mozambique,MZ,MOZ,508,Ever breastfed (0-23 months),1997,95.7,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Mozambique,MZ,MOZ,508,Ever breastfed (0-23 months),2003,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mozambique,MZ,MOZ,508,Ever breastfed (0-23 months),2011,97.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mozambique,MZ,MOZ,508,Ever breastfed (0-23 months),2022,96.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mozambique,MZ,MOZ,508,Ever breastfed (0-23 months),1997,96.9,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Mozambique,MZ,MOZ,508,Ever breastfed (0-23 months),2003,98.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mozambique,MZ,MOZ,508,Ever breastfed (0-23 months),2008,95.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mozambique,MZ,MOZ,508,Ever breastfed (0-23 months),2011,97.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Mozambique,MZ,MOZ,508,Ever breastfed (0-23 months),2022,96.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Myanmar,MM,MMR,104,Ever breastfed (0-23 months),2016,98.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Myanmar,MM,MMR,104,Ever breastfed (0-23 months),2016,97.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Myanmar,MM,MMR,104,Ever breastfed (0-23 months),2016,98.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Namibia,,NAM,516,Ever breastfed (0-23 months),1992,96.4,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Namibia,,NAM,516,Ever breastfed (0-23 months),2000,95.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Namibia,,NAM,516,Ever breastfed (0-23 months),2007,94.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Namibia,,NAM,516,Ever breastfed (0-23 months),2013,96.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Namibia,,NAM,516,Ever breastfed (0-23 months),1992,95.8,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Namibia,,NAM,516,Ever breastfed (0-23 months),2000,94.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Namibia,,NAM,516,Ever breastfed (0-23 months),2007,90.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Namibia,,NAM,516,Ever breastfed (0-23 months),2013,95.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Namibia,,NAM,516,Ever breastfed (0-23 months),1992,96.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Namibia,,NAM,516,Ever breastfed (0-23 months),2000,95.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Namibia,,NAM,516,Ever breastfed (0-23 months),2007,92.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Namibia,,NAM,516,Ever breastfed (0-23 months),2013,95.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nauru,NR,NRU,520,Ever breastfed (0-23 months),2007,94.7,Total,Units,%,Reported,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),1996,98.8,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2001,98.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2006,98.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2011,98.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2016,99.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2019,99.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2022,98.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),1996,97.4,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2001,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2006,99.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2011,98.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2016,99.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2019,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2022,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),1996,98.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2001,98.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2006,98.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2011,98.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2014,97.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2016,99.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2019,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nepal,NP,NPL,524,Ever breastfed (0-23 months),2022,98.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nicaragua,NI,NIC,558,Ever breastfed (0-23 months),1998,93.9,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Nicaragua,NI,NIC,558,Ever breastfed (0-23 months),2001,95.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nicaragua,NI,NIC,558,Ever breastfed (0-23 months),1998,93.5,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Nicaragua,NI,NIC,558,Ever breastfed (0-23 months),2001,95.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nicaragua,NI,NIC,558,Ever breastfed (0-23 months),1998,93.7,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Nicaragua,NI,NIC,558,Ever breastfed (0-23 months),2001,95.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nicaragua,NI,NIC,558,Ever breastfed (0-23 months),2007,94.2,Total,Units,%,Reported,,Middle of fieldwork,Total
+Nicaragua,NI,NIC,558,Ever breastfed (0-23 months),2012,92.3,Total,Units,%,Reported,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),1992,98.1,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),1998,98.7,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2006,98.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2012,99.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2018,97.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2019,93.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2020,99.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2021,98.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2022,100.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),1992,97.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),1998,98.2,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2006,98.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2012,98.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2018,99.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2019,93.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2020,99.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2021,98.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2022,100.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),1992,98.0,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),1998,98.4,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2006,98.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2012,98.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2018,98.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2019,93.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2020,99.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2021,98.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Niger,NE,NER,562,Ever breastfed (0-23 months),2022,100.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),1990,98.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2003,98.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2008,96.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2013,98.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2018,97.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2021,96.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),1990,97.6,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2003,96.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2008,96.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2013,97.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2018,97.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2021,96.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),1990,97.9,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2003,97.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2007,96.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2008,96.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2011,95.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2013,97.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2016,95.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2018,97.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Nigeria,NG,NGA,566,Ever breastfed (0-23 months),2021,96.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Ever breastfed (0-23 months),2019,93.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Ever breastfed (0-23 months),2019,87.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Ever breastfed (0-23 months),2005,93.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Ever breastfed (0-23 months),2011,93.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Ever breastfed (0-23 months),2019,89.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Oman,OM,OMN,512,Ever breastfed (0-23 months),2000,98.8,Total,Units,%,Reported,,Middle of fieldwork,Total
+Oman,OM,OMN,512,Ever breastfed (0-23 months),2014,98.0,Total,Units,%,Reported,,Middle of fieldwork,Total
+Oman,OM,OMN,512,Ever breastfed (0-23 months),2017,96.1,Total,Units,%,Reported,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),1991,94.9,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),2006,94.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),2013,94.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),2018-02,94.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),2018-09,90.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),1991,95.1,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),2006,92.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),2013,94.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),2018-02,93.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),2018-09,90.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),1991,95.0,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),1995,89.0,Total,Units,%,Reported,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),2006,93.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),2013,94.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),2018-02,94.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Pakistan,PK,PAK,586,Ever breastfed (0-23 months),2018-09,90.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Panama,PA,PAN,591,Ever breastfed (0-23 months),2013,96.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Papua New Guinea,PG,PNG,598,Ever breastfed (0-23 months),2017,91.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Papua New Guinea,PG,PNG,598,Ever breastfed (0-23 months),2017,87.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Papua New Guinea,PG,PNG,598,Ever breastfed (0-23 months),2017,89.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Paraguay,PY,PRY,600,Ever breastfed (0-23 months),1990,93.3,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Paraguay,PY,PRY,600,Ever breastfed (0-23 months),1990,93.2,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Paraguay,PY,PRY,600,Ever breastfed (0-23 months),1990,93.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Paraguay,PY,PRY,600,Ever breastfed (0-23 months),2008,95.3,Total,Units,%,Reported,,Middle of fieldwork,Total
+Paraguay,PY,PRY,600,Ever breastfed (0-23 months),2016,96.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),1986,96.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),1991,96.7,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),1996,97.9,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2000,98.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2005,97.9,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2007,98.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2009,98.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2010,99.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2011,99.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2012,98.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2014,98.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2015,99.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2016,99.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2017,98.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2018,78.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2019,99.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2020,98.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2021,99.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2022,97.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2023,98.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),1986,95.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),1991,96.5,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),1996,97.8,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2000,98.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2005,99.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2007,99.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2009,98.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2010,98.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2011,99.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2012,98.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2014,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2015,98.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2016,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2017,98.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2018,79.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2019,99.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2020,98.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2021,98.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2022,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2023,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),1986,96.0,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),1991,96.6,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),1996,97.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2000,98.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2005,98.5,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2007,98.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2009,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2010,99.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2011,99.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2012,98.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2013,98.6,Total,Units,%,Reported,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2014,98.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2015,98.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2016,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2017,98.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2018,79.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2019,99.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2020,98.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2021,98.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2022,98.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Peru,PE,PER,604,Ever breastfed (0-23 months),2023,98.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),1993,88.1,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),1998,91.5,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2003,86.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2008,89.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2013,93.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2017,95.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2022,84.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),1993,88.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),1998,87.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2003,87.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2008,89.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2013,93.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2017,91.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2022,85.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),1993,88.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),1998,89.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2003,86.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2008,89.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2013,93.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2017,93.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Philippines,PH,PHL,608,Ever breastfed (0-23 months),2022,85.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Qatar,QA,QAT,634,Ever breastfed (0-23 months),2012,94.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,Ever breastfed (0-23 months),2005,97.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,Ever breastfed (0-23 months),2005,96.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,Ever breastfed (0-23 months),2005,96.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,Ever breastfed (0-23 months),2012,96.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Romania,RO,ROU,642,Ever breastfed (0-23 months),2004,88.3,Total,Units,%,Reported,,Middle of fieldwork,Total
+Russia,RU,RUS,643,Ever breastfed (0-23 months),2011,92.0,Total,Units,%,Reported,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),1992,99.0,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2000,98.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2005,98.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2008,94.6,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2010,99.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2015,98.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2018,99.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2020,98.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),1992,97.8,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2000,97.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2005,97.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2008,93.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2010,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2015,98.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2018,99.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2020,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),1992,98.4,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2000,98.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2005,98.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2008,93.8,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2010,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2015,98.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2018,99.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Rwanda,RW,RWA,646,Ever breastfed (0-23 months),2020,98.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Saint Lucia,LC,LCA,662,Ever breastfed (0-23 months),2012,95.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Samoa,WS,WSM,882,Ever breastfed (0-23 months),2019,91.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Samoa,WS,WSM,882,Ever breastfed (0-23 months),2019,88.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Samoa,WS,WSM,882,Ever breastfed (0-23 months),2009,92.4,Total,Units,%,Reported,,Middle of fieldwork,Total
+Samoa,WS,WSM,882,Ever breastfed (0-23 months),2014,93.6,Total,Units,%,Reported,,Middle of fieldwork,Total
+Samoa,WS,WSM,882,Ever breastfed (0-23 months),2019,90.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Ever breastfed (0-23 months),2008,98.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Ever breastfed (0-23 months),2019,99.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Ever breastfed (0-23 months),2008,94.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Ever breastfed (0-23 months),2019,97.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Ever breastfed (0-23 months),2008,96.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Ever breastfed (0-23 months),2014,97.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Ever breastfed (0-23 months),2019,98.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),1986,98.4,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),1993,98.5,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),1997,98.1,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2005,98.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2011,97.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2013,99.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2014,98.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2015,98.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2016,98.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2017,98.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2018,98.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2019,98.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2023,94.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),1986,97.7,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),1993,98.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),1997,97.6,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2005,97.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2011,97.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2013,97.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2014,98.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2015,98.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2016,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2017,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2018,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2019,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2023,93.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),1986,98.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),1993,98.2,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),1997,97.9,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2005,98.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2011,97.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2013,98.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2014,98.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2015,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2016,98.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2017,98.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2018,98.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2019,98.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Senegal,SN,SEN,686,Ever breastfed (0-23 months),2023,93.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Serbia,RS,SRB,688,Ever breastfed (0-23 months),2019,94.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Serbia,RS,SRB,688,Ever breastfed (0-23 months),2019,92.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Serbia,RS,SRB,688,Ever breastfed (0-23 months),2005,92.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Serbia,RS,SRB,688,Ever breastfed (0-23 months),2010,90.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Serbia,RS,SRB,688,Ever breastfed (0-23 months),2014,90.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Serbia,RS,SRB,688,Ever breastfed (0-23 months),2019,93.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2008,90.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2013,97.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2017,98.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2019,97.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2021,98.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2008,93.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2013,96.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2017,98.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2019,96.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2021,97.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2005,93.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2008,91.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2010,94.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2013,97.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2017,98.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2019,96.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sierra Leone,SL,SLE,694,Ever breastfed (0-23 months),2021,97.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Solomon Islands,SB,SLB,90,Ever breastfed (0-23 months),2007,92.6,Total,Units,%,Reported,,Middle of fieldwork,Total
+Solomon Islands,SB,SLB,90,Ever breastfed (0-23 months),2015,97.9,Total,Units,%,Reported,,Middle of fieldwork,Total
+Somalia,SO,SOM,706,Ever breastfed (0-23 months),2018,90.2,Female,Units,%,Reported,,Middle of fieldwork,Total
+Somalia,SO,SOM,706,Ever breastfed (0-23 months),2018,90.2,Male,Units,%,Reported,,Middle of fieldwork,Total
+Somalia,SO,SOM,706,Ever breastfed (0-23 months),2006,93.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Somalia,SO,SOM,706,Ever breastfed (0-23 months),2018,90.2,Total,Units,%,Reported,,Middle of fieldwork,Total
+South Africa,ZA,ZAF,710,Ever breastfed (0-23 months),1998,88.5,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+South Africa,ZA,ZAF,710,Ever breastfed (0-23 months),2016,81.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+South Africa,ZA,ZAF,710,Ever breastfed (0-23 months),1998,86.2,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+South Africa,ZA,ZAF,710,Ever breastfed (0-23 months),2016,83.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+South Africa,ZA,ZAF,710,Ever breastfed (0-23 months),1998,87.4,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+South Africa,ZA,ZAF,710,Ever breastfed (0-23 months),2004,81.5,Total,Units,%,Reported,,Middle of fieldwork,Total
+South Africa,ZA,ZAF,710,Ever breastfed (0-23 months),2016,82.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+South Sudan,SS,SSD,728,Ever breastfed (0-23 months),2010,93.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+South Sudan,SS,SSD,728,Ever breastfed (0-23 months),2010,92.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+South Sudan,SS,SSD,728,Ever breastfed (0-23 months),2010,92.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sri Lanka,LK,LKA,144,Ever breastfed (0-23 months),2016,99.4,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sri Lanka,LK,LKA,144,Ever breastfed (0-23 months),2016,99.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sri Lanka,LK,LKA,144,Ever breastfed (0-23 months),2000,98.0,Total,Units,%,Reported,,Middle of fieldwork,Total
+Sri Lanka,LK,LKA,144,Ever breastfed (0-23 months),2007,99.3,Total,Units,%,Reported,,Middle of fieldwork,Total
+Sri Lanka,LK,LKA,144,Ever breastfed (0-23 months),2016,99.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sri Lanka,LK,LKA,144,Ever breastfed (0-23 months),2022,97.0,Total,Units,%,Reported,,Middle of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Ever breastfed (0-23 months),2020,96.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Ever breastfed (0-23 months),2020,95.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Ever breastfed (0-23 months),2006,97.5,Total,Units,%,Reported,,Middle of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Ever breastfed (0-23 months),2010,95.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Ever breastfed (0-23 months),2014,96.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Ever breastfed (0-23 months),2020,95.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sudan,SD,SDN,736,Ever breastfed (0-23 months),2010,98.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sudan,SD,SDN,736,Ever breastfed (0-23 months),2010,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sudan,SD,SDN,736,Ever breastfed (0-23 months),2010,98.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Sudan,SD,SDN,736,Ever breastfed (0-23 months),2014,95.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Suriname,SR,SUR,740,Ever breastfed (0-23 months),2018,94.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Suriname,SR,SUR,740,Ever breastfed (0-23 months),2018,89.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Suriname,SR,SUR,740,Ever breastfed (0-23 months),2006,88.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Suriname,SR,SUR,740,Ever breastfed (0-23 months),2010,90.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Suriname,SR,SUR,740,Ever breastfed (0-23 months),2018,91.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Syrian Arab Republic,SY,SYR,760,Ever breastfed (0-23 months),2006,94.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Syrian Arab Republic,SY,SYR,760,Ever breastfed (0-23 months),2010,93.2,Total,Units,%,Reported,,Middle of fieldwork,Total
+Tajikistan,TJ,TJK,762,Ever breastfed (0-23 months),2012,98.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tajikistan,TJ,TJK,762,Ever breastfed (0-23 months),2017,97.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tajikistan,TJ,TJK,762,Ever breastfed (0-23 months),2012,98.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tajikistan,TJ,TJK,762,Ever breastfed (0-23 months),2017,97.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tajikistan,TJ,TJK,762,Ever breastfed (0-23 months),2005,98.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tajikistan,TJ,TJK,762,Ever breastfed (0-23 months),2012,98.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tajikistan,TJ,TJK,762,Ever breastfed (0-23 months),2017,97.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Thailand,TH,THA,764,Ever breastfed (0-23 months),1987,95.5,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Thailand,TH,THA,764,Ever breastfed (0-23 months),1987,95.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Thailand,TH,THA,764,Ever breastfed (0-23 months),1987,95.7,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Thailand,TH,THA,764,Ever breastfed (0-23 months),2006,97.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Thailand,TH,THA,764,Ever breastfed (0-23 months),2012,96.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Thailand,TH,THA,764,Ever breastfed (0-23 months),2016,97.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Thailand,TH,THA,764,Ever breastfed (0-23 months),2019,96.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Thailand,TH,THA,764,Ever breastfed (0-23 months),2022,97.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Timor-Leste,TL,TLS,626,Ever breastfed (0-23 months),2009,97.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Timor-Leste,TL,TLS,626,Ever breastfed (0-23 months),2016,95.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Timor-Leste,TL,TLS,626,Ever breastfed (0-23 months),2020,74.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Timor-Leste,TL,TLS,626,Ever breastfed (0-23 months),2009,97.4,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Timor-Leste,TL,TLS,626,Ever breastfed (0-23 months),2016,95.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Timor-Leste,TL,TLS,626,Ever breastfed (0-23 months),2020,74.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Timor-Leste,TL,TLS,626,Ever breastfed (0-23 months),2003,96.7,Total,Units,%,Reported,,Middle of fieldwork,Total
+Timor-Leste,TL,TLS,626,Ever breastfed (0-23 months),2009,97.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Timor-Leste,TL,TLS,626,Ever breastfed (0-23 months),2016,95.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Timor-Leste,TL,TLS,626,Ever breastfed (0-23 months),2020,74.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),1988,97.9,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),1998,98.3,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),2014,98.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),2017,98.5,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),1988,97.6,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),1998,97.4,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),2014,97.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),2017,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),1988,97.7,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),1998,97.9,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),2006,94.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),2010,96.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),2014,98.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Togo,TG,TGO,768,Ever breastfed (0-23 months),2017,98.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tonga,TO,TON,776,Ever breastfed (0-23 months),2019,90.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tonga,TO,TON,776,Ever breastfed (0-23 months),2019,92.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tonga,TO,TON,776,Ever breastfed (0-23 months),2012,91.4,Total,Units,%,Reported,,Middle of fieldwork,Total
+Tonga,TO,TON,776,Ever breastfed (0-23 months),2019,91.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Ever breastfed (0-23 months),1987,89.1,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Ever breastfed (0-23 months),2022,96.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Ever breastfed (0-23 months),1987,89.8,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Ever breastfed (0-23 months),2022,94.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Ever breastfed (0-23 months),1987,89.4,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Ever breastfed (0-23 months),2006,89.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Ever breastfed (0-23 months),2011,91.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Ever breastfed (0-23 months),2022,95.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tunisia,TN,TUN,788,Ever breastfed (0-23 months),1988,96.1,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Tunisia,TN,TUN,788,Ever breastfed (0-23 months),2018,92.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tunisia,TN,TUN,788,Ever breastfed (0-23 months),1988,96.5,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Tunisia,TN,TUN,788,Ever breastfed (0-23 months),2018,91.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tunisia,TN,TUN,788,Ever breastfed (0-23 months),1988,96.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Tunisia,TN,TUN,788,Ever breastfed (0-23 months),2012,96.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tunisia,TN,TUN,788,Ever breastfed (0-23 months),2018,92.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Turkmenistan,TM,TKM,795,Ever breastfed (0-23 months),2000,97.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Turkmenistan,TM,TKM,795,Ever breastfed (0-23 months),2019,99.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Turkmenistan,TM,TKM,795,Ever breastfed (0-23 months),2000,96.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Turkmenistan,TM,TKM,795,Ever breastfed (0-23 months),2019,98.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Turkmenistan,TM,TKM,795,Ever breastfed (0-23 months),2000,97.1,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Turkmenistan,TM,TKM,795,Ever breastfed (0-23 months),2006,97.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Turkmenistan,TM,TKM,795,Ever breastfed (0-23 months),2015,98.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Turkmenistan,TM,TKM,795,Ever breastfed (0-23 months),2019,98.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Turks and Caicos Islands,TC,TCA,796,Ever breastfed (0-23 months),2020,92.7,Female,Units,%,Low reliability,,Middle of fieldwork,Total
+Turks and Caicos Islands,TC,TCA,796,Ever breastfed (0-23 months),2020,99.0,Male,Units,%,Low reliability,,Middle of fieldwork,Total
+Turks and Caicos Islands,TC,TCA,796,Ever breastfed (0-23 months),2020,94.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tuvalu,TV,TUV,798,Ever breastfed (0-23 months),2019,93.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tuvalu,TV,TUV,798,Ever breastfed (0-23 months),2019,90.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Tuvalu,TV,TUV,798,Ever breastfed (0-23 months),2007,91.1,Total,Units,%,Reported,,Middle of fieldwork,Total
+Tuvalu,TV,TUV,798,Ever breastfed (0-23 months),2019,91.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Turkey,TR,TUR,792,Ever breastfed (0-23 months),1993,97.7,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Turkey,TR,TUR,792,Ever breastfed (0-23 months),1998,96.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Turkey,TR,TUR,792,Ever breastfed (0-23 months),2004,96.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Turkey,TR,TUR,792,Ever breastfed (0-23 months),2018,97.9,Female,Units,%,Reported,,Middle of fieldwork,Total
+Turkey,TR,TUR,792,Ever breastfed (0-23 months),1993,96.1,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Turkey,TR,TUR,792,Ever breastfed (0-23 months),1998,95.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Turkey,TR,TUR,792,Ever breastfed (0-23 months),2004,98.0,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Turkey,TR,TUR,792,Ever breastfed (0-23 months),2018,97.6,Male,Units,%,Reported,,Middle of fieldwork,Total
+Turkey,TR,TUR,792,Ever breastfed (0-23 months),1993,96.9,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Turkey,TR,TUR,792,Ever breastfed (0-23 months),1998,96.0,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Turkey,TR,TUR,792,Ever breastfed (0-23 months),2004,97.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Turkey,TR,TUR,792,Ever breastfed (0-23 months),2008,96.7,Total,Units,%,Reported,,Middle of fieldwork,Total
+Turkey,TR,TUR,792,Ever breastfed (0-23 months),2018,97.8,Total,Units,%,Reported,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),1988,98.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),1995,98.8,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2000,99.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2006,98.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2011,98.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2016,97.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2022,96.3,Female,Units,%,Reported,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),1988,98.3,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),1995,98.2,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2000,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2006,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2011,98.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2016,97.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2022,95.7,Male,Units,%,Reported,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),1988,98.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),1995,98.5,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2000,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2006,98.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2011,98.2,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2016,97.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2020,90.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uganda,UG,UGA,800,Ever breastfed (0-23 months),2022,96.0,Total,Units,%,Reported,,Middle of fieldwork,Total
+Ukraine,UA,UKR,804,Ever breastfed (0-23 months),2007,93.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ukraine,UA,UKR,804,Ever breastfed (0-23 months),2007,96.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ukraine,UA,UKR,804,Ever breastfed (0-23 months),2005,95.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ukraine,UA,UKR,804,Ever breastfed (0-23 months),2007,94.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Ukraine,UA,UKR,804,Ever breastfed (0-23 months),2012,95.4,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+United Arab Emirates,AE,ARE,784,Ever breastfed (0-23 months),1995,93.2,Total,Units,%,Reported,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),1991,98.1,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),1996,97.4,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),1999,95.3,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),2004,96.9,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),2010,98.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),2015,98.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),1991,98.4,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),1996,96.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),1999,95.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),2004,96.5,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),2010,95.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),2015,98.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),1991,98.3,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),1996,97.2,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),1999,95.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),2004,96.7,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),2010,96.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),2014,98.4,Total,Units,%,Reported,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),2015,98.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Ever breastfed (0-23 months),2018,96.6,Total,Units,%,Reported,,Middle of fieldwork,Total
+United States,US,USA,840,Ever breastfed (0-23 months),2010,69.6,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+United States,US,USA,840,Ever breastfed (0-23 months),2012,74.0,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+United States,US,USA,840,Ever breastfed (0-23 months),2014,74.4,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Uruguay,UY,URY,858,Ever breastfed (0-23 months),2018,96.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uruguay,UY,URY,858,Ever breastfed (0-23 months),2018,97.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uruguay,UY,URY,858,Ever breastfed (0-23 months),2013,98.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uruguay,UY,URY,858,Ever breastfed (0-23 months),2018,97.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Ever breastfed (0-23 months),1996,97.7,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Ever breastfed (0-23 months),2017,94.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Ever breastfed (0-23 months),2021,97.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Ever breastfed (0-23 months),1996,96.3,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Ever breastfed (0-23 months),2017,96.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Ever breastfed (0-23 months),2021,97.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Ever breastfed (0-23 months),1996,96.9,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Ever breastfed (0-23 months),2006,97.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Ever breastfed (0-23 months),2017,95.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Ever breastfed (0-23 months),2021,97.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Vanuatu,VU,VUT,548,Ever breastfed (0-23 months),2023,98.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Vanuatu,VU,VUT,548,Ever breastfed (0-23 months),2023,96.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Vanuatu,VU,VUT,548,Ever breastfed (0-23 months),2008,90.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Vanuatu,VU,VUT,548,Ever breastfed (0-23 months),2013,94.9,Total,Units,%,Reported,,Middle of fieldwork,Total
+Vanuatu,VU,VUT,548,Ever breastfed (0-23 months),2023,97.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Viet Nam,VN,VNM,704,Ever breastfed (0-23 months),1997,99.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Viet Nam,VN,VNM,704,Ever breastfed (0-23 months),2002,98.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Viet Nam,VN,VNM,704,Ever breastfed (0-23 months),2020,97.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Viet Nam,VN,VNM,704,Ever breastfed (0-23 months),1997,98.1,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Viet Nam,VN,VNM,704,Ever breastfed (0-23 months),2002,98.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Viet Nam,VN,VNM,704,Ever breastfed (0-23 months),2020,97.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Viet Nam,VN,VNM,704,Ever breastfed (0-23 months),1997,98.6,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Viet Nam,VN,VNM,704,Ever breastfed (0-23 months),2002,98.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Viet Nam,VN,VNM,704,Ever breastfed (0-23 months),2006,98.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Viet Nam,VN,VNM,704,Ever breastfed (0-23 months),2010,98.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Viet Nam,VN,VNM,704,Ever breastfed (0-23 months),2014,96.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Viet Nam,VN,VNM,704,Ever breastfed (0-23 months),2020,97.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Yemen,YE,YEM,887,Ever breastfed (0-23 months),1991,94.5,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Yemen,YE,YEM,887,Ever breastfed (0-23 months),1997,97.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Yemen,YE,YEM,887,Ever breastfed (0-23 months),2013,97.1,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Yemen,YE,YEM,887,Ever breastfed (0-23 months),1991,93.6,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Yemen,YE,YEM,887,Ever breastfed (0-23 months),1997,96.7,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Yemen,YE,YEM,887,Ever breastfed (0-23 months),2013,96.3,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Yemen,YE,YEM,887,Ever breastfed (0-23 months),1991,94.0,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Yemen,YE,YEM,887,Ever breastfed (0-23 months),1997,96.9,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Yemen,YE,YEM,887,Ever breastfed (0-23 months),2006,97.0,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Yemen,YE,YEM,887,Ever breastfed (0-23 months),2013,96.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),1992,98.2,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),1996,98.1,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),2002,99.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),2007,97.9,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),2013,95.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),2018,98.0,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),1992,97.7,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),1996,98.4,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),2002,98.9,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),2007,97.6,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),2013,95.2,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),2018,97.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),1992,97.9,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),1996,98.2,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),2002,99.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),2007,97.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),2013,95.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zambia,ZM,ZMB,894,Ever breastfed (0-23 months),2018,97.9,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),1988,99.0,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),1994,99.1,Female,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),1999,97.8,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2005,98.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2010,97.2,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2015,98.6,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2019,98.7,Female,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),1988,98.0,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),1994,98.9,Male,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),1999,97.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2005,96.1,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2010,95.8,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2015,97.7,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2019,98.5,Male,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),1988,98.6,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),1994,99.0,Total,Units,%,External Reanalysis,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),1999,97.8,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2005,97.3,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2009,96.7,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2010,96.5,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2014,98.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2015,98.1,Total,Units,%,Reanalysed,,Middle of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Ever breastfed (0-23 months),2019,98.6,Total,Units,%,Reanalysed,,Middle of fieldwork,Total

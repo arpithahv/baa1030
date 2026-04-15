@@ -1,0 +1,263 @@
+---
+title: "UNICEF Global Health Indicators: A Data-Driven Analysis"
+subtitle: "Infant Vaccination, Breastfeeding, and Socio-Economic Trends — 2019 Snapshot"
+author:
+  - name: "Data Analytics Report"
+    affiliation: "Dublin City University — MSc Business Analytics"
+date: "2019 (Data Reference Year)"
+format:
+  html:
+    embed-resources: true
+    code-fold: true
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-title: "Table of Contents"
+    number-sections: true
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+---
+
+## Executive Summary
+
+This report examines global infant health indicators—specifically **polio vaccination coverage** and **breastfeeding rates**—and contextualises them within broader socio-economic metadata sourced from UNICEF and World Bank datasets.
+
+To ensure analytical validity, all cross-sectional comparative charts are **restricted to the year 2019**, identified as the year with the highest overlap of observations across all three data sources. The longitudinal time-series retains the full historical record.
+
+The entire data transformation pipeline uses **Polars exclusively** (no Pandas), with **Plotnine (ggplot-style)** for all visualisations.
+
+> **Colour Convention used throughout this report:**
+> - 🔴 **Red** = Low / Critical values
+> - 🟡 **Yellow** = Moderate / Mid-range values
+> - 🟢 **Green** = High / Strong values
+> - 🟣 **Purple → Yellow (viridis)** = Sequential encoding for vaccine coverage in scatter plot
+
+---
+
+```{python}
+#| label: setup
+#| include: false
+#| eval: false
+import polars as pl
+from plotnine import *
+import geopandas as gpd
+import warnings
+warnings.filterwarnings('ignore')
+```
+
+```{python}
+#| label: data-pipeline
+#| code-summary: "Data Loading & Transformation (Polars — Pandas-free)"
+#| eval: false
+
+# --- Load raw CSVs via Polars ---
+df_ind1 = pl.read_csv('unicef_indicator_1.csv', infer_schema_length=10000)
+df_ind2 = pl.read_csv('unicef_indicator_2.csv', infer_schema_length=10000)
+df_meta = pl.read_csv('unicef_metadata.csv', infer_schema_length=10000)
+
+# --- Indicator 1: Polio Vaccination ---
+df_ind1 = (
+    df_ind1.rename({'time_period': 'year', 'obs_value': 'polio_vaccine_pct'})
+    .with_columns(pl.col('year').cast(pl.Int32, strict=False))
+    .select(['country', 'alpha_3_code', 'year', 'polio_vaccine_pct'])
+    .group_by(['country', 'alpha_3_code', 'year']).agg(pl.col('polio_vaccine_pct').mean())
+)
+
+# --- Indicator 2: Breastfeeding ---
+df_ind2 = (
+    df_ind2.rename({'time_period': 'year', 'obs_value': 'breastfed_pct'})
+    .with_columns(pl.col('year').cast(pl.Int32, strict=False))
+    .select(['alpha_3_code', 'year', 'breastfed_pct'])
+    .group_by(['alpha_3_code', 'year']).agg(pl.col('breastfed_pct').mean())
+)
+
+# --- Metadata: GDP & Life Expectancy ---
+meta_cols = {
+    'alpha_3_code': 'alpha_3_code', 'year': 'year',
+    'Population, total': 'population',
+    'GDP per capita (constant 2015 US$)': 'gdp_per_capita',
+    'Life expectancy at birth, total (years)': 'life_expectancy'
+}
+df_meta = (
+    df_meta.select([pl.col(k).alias(v) for k, v in meta_cols.items()])
+    .with_columns(pl.col('year').cast(pl.Int32, strict=False))
+)
+
+# --- Merge & Filter to 2019 ---
+df_merged = df_ind1.join(df_ind2, on=['alpha_3_code', 'year'], how='outer')
+df_merged = df_merged.join(df_meta, on=['alpha_3_code', 'year'], how='left')
+
+TARGET_YEAR = 2019
+df_TARGET = df_merged.filter(pl.col('year') == TARGET_YEAR)
+```
+
+---
+
+## Visualisation 1: Global Polio Vaccination Coverage Map
+
+**Story:** The choropleth world map reveals stark geographic inequities in polio vaccination coverage in 2019. Using a **Red → Yellow → Green** gradient, countries shaded in deep red indicate critically low immunisation rates where polio risk remains elevated. Green-shaded nations—concentrated in high-income regions—have achieved near-universal coverage above 95%. The widespread yellow and red zones across Sub-Saharan Africa and parts of South Asia underscore the unfinished agenda of global vaccine equity. Grey countries indicate no data available for that year.
+
+```{python}
+#| label: world-map
+#| code-summary: "Plot: World Map (RdYlGn — Red=Low/Critical, Green=High Coverage)"
+#| eval: false
+
+df_map = df_TARGET.drop_nulls(subset='polio_vaccine_pct')
+world = gpd.read_file('https://raw.githubusercontent.com/johan/world.geo.json/master/countries.geo.json')
+polio_mapping = dict(zip(df_map['alpha_3_code'].to_list(), df_map['polio_vaccine_pct'].to_list()))
+world['polio_vaccine_pct'] = world['id'].map(polio_mapping)
+
+map_plot = (
+    ggplot(world)
+    + geom_map(aes(fill='polio_vaccine_pct'))
+    + scale_fill_cmap('RdYlGn', na_value='#cccccc')
+    + theme_minimal()
+    + labs(title=f'Global Polio Vaccination Coverage ({TARGET_YEAR})', fill='Coverage (%)')
+    + theme(figure_size=(11, 6))
+)
+map_plot.save('map_plot.png', width=11, height=6, dpi=300, verbose=False)
+```
+
+![**Figure 1:** World Map — Polio Vaccination Coverage 2019 (Red = Critical Low, Green = High)](map_plot.png){width=100%}
+
+---
+
+## Visualisation 2: Bottom 10 Countries by Breastfeeding Rate
+
+**Story:** Exclusive breastfeeding in the first six months of life is one of the most effective interventions for child survival. This bar chart spotlights the 10 nations with the lowest recorded breastfeeding rates in 2019. The **Red → Green** diverging gradient encodes relative severity — the darkest red bars represent the most critical cases. Percentage values are displayed at the end of each bar for precise comparison. Predominantly high-income countries appear in this list, suggesting that formula marketing, workplace pressures, and cultural norms may suppress breastfeeding rates irrespective of economic development.
+
+```{python}
+#| label: bar-chart
+#| code-summary: "Plot: Bottom 10 Bar Chart (RdYlGn, values shown at bar ends)"
+#| eval: false
+
+bottom_10 = (
+    df_TARGET.drop_nulls(subset=['country', 'breastfed_pct'])
+    .sort('breastfed_pct', descending=False)
+    .head(10)
+)
+bottom_10 = bottom_10.with_columns(
+    pl.col('breastfed_pct').round(1).alias('breastfed_pct'),
+    pl.col('breastfed_pct').round(1).cast(pl.Utf8).alias('value_label')
+)
+categories = bottom_10['country'].to_list()
+bottom_10 = bottom_10.with_columns(pl.col('country').cast(pl.Enum(categories)))
+
+bar_plot = (
+    ggplot(bottom_10, aes(x='country', y='breastfed_pct', fill='breastfed_pct'))
+    + geom_col(show_legend=True)
+    + geom_text(aes(label='value_label'), ha='left', nudge_y=0.3, size=9, color='#333333')
+    + scale_fill_cmap('RdYlGn')
+    + coord_flip()
+    + theme_minimal()
+    + labs(title=f'Bottom 10 Countries by Breastfeeding Rate ({TARGET_YEAR})',
+           x='Country', y='Breastfeeding Rate (%)', fill='Rate (%)')
+    + theme(figure_size=(10, 6))
+)
+bar_plot.save('bar_plot.png', width=10, height=6, dpi=300, verbose=False)
+```
+
+![**Figure 2:** Bottom 10 Countries — Breastfeeding Rate 2019 (Red = Most Critical, values shown)](bar_plot.png){width=100%}
+
+---
+
+## Visualisation 3: GDP per Capita vs. Life Expectancy with OLS Regression
+
+**Story:** This scatter plot examines the relationship between national wealth (GDP per capita, log scale) and population health outcomes (life expectancy) in 2019. Each country point is coloured by its **polio vaccination coverage** (purple = low, yellow = high). The **OLS regression line** (red) captures the overall positive trend — wealthier nations live longer. The **bottom 10 countries by life expectancy** are individually labelled with their name and exact value, highlighting which nations are most vulnerable. These low-income, low-longevity countries also tend to cluster on the far left of the chart, confirming that poverty and poor health outcomes are deeply interlinked.
+
+```{python}
+#| label: scatter-plot
+#| code-summary: "Plot: Scatter with OLS Regression and Bottom 10 Country Labels"
+#| eval: false
+
+df_scatter = df_TARGET.drop_nulls(subset=['country', 'gdp_per_capita', 'life_expectancy', 'polio_vaccine_pct'])
+
+# Identify bottom 10 countries by life expectancy to label
+bottom10_countries = (
+    df_scatter.sort('life_expectancy', descending=False)
+    .head(10)['country'].to_list()
+)
+
+# Build label: name + value for bottom 10 only
+df_scatter = df_scatter.with_columns(
+    pl.when(pl.col('country').is_in(bottom10_countries))
+    .then(pl.col('country') + '\n' + pl.col('life_expectancy').round(1).cast(pl.Utf8) + ' yrs')
+    .otherwise(pl.lit(''))
+    .alias('scatter_label')
+)
+
+scatter_plot = (
+    ggplot(df_scatter, aes(x='gdp_per_capita', y='life_expectancy'))
+    + geom_point(aes(color='polio_vaccine_pct'), alpha=0.75, size=3)
+    + scale_color_cmap('viridis')
+    + geom_smooth(method='lm', color='firebrick', fill='lightyellow', alpha=0.25)
+    + geom_text(aes(label='scatter_label'), size=7, nudge_y=0.5,
+                adjust_text={'expand_points': (1.5, 1.5)})
+    + scale_x_log10()
+    + theme_minimal()
+    + labs(title=f'Life Expectancy vs GDP per Capita with OLS Trend ({TARGET_YEAR})',
+           x='GDP per Capita (log scale, USD)', y='Life Expectancy (years)',
+           color='Polio Coverage (%)')
+    + theme(figure_size=(11, 7))
+)
+scatter_plot.save('scatter_plot.png', width=11, height=7, dpi=300, verbose=False)
+```
+
+![**Figure 3:** Scatter Plot — Life Expectancy vs GDP with OLS trend; bottom 10 countries labelled](scatter_plot.png){width=100%}
+
+---
+
+## Visualisation 4: Global Vaccination Trend Over Time
+
+**Story:** This time-series tracks the global average polio vaccination rate across all available years, with **every single year shown individually on the x-axis**. The upward trajectory reflects decades of UNICEF/WHO immunisation effort. Every year is labelled on the axis enabling precise identification of progress and plateaus — including the slight drop observable around the late 2010s possibly linked to supply disruptions or geopolitical challenges affecting coverage in conflict zones.
+
+```{python}
+#| label: time-series
+#| code-summary: "Plot: Time Series — Every individual year shown on x-axis"
+#| eval: false
+
+df_time = (
+    df_merged.drop_nulls(subset=['year', 'polio_vaccine_pct'])
+    .filter(pl.col('year').is_not_null())
+    .group_by('year')
+    .agg(pl.col('polio_vaccine_pct').mean().round(1))
+    .sort('year')
+)
+
+min_yr = int(df_time['year'].min())
+max_yr = int(df_time['year'].max())
+year_breaks = list(range(min_yr, max_yr + 1))
+
+time_plot = (
+    ggplot(df_time, aes(x='year', y='polio_vaccine_pct'))
+    + geom_line(color='steelblue', size=1.2)
+    + geom_point(color='#b22222', size=2.5)
+    + scale_x_continuous(breaks=year_breaks, limits=[min_yr - 0.5, max_yr + 0.5])
+    + theme_minimal()
+    + labs(title='Global Average Polio Vaccination Coverage Over Time',
+           x='Year', y='Average Coverage (%)')
+    + theme(figure_size=(16, 5), axis_text_x=element_text(angle=90, ha='right', size=7))
+)
+time_plot.save('time_series_plot.png', width=16, height=5, dpi=300, verbose=False)
+```
+
+![**Figure 4:** Time Series — Global Polio Vaccination Trend (every year on x-axis, 90° labels)](time_series_plot.png){width=100%}
+
+---
+
+## Conclusion
+
+The four visualisations collectively paint a clear picture of the **global state of infant health in 2019** and across time:
+
+| Finding | Insight |
+|---------|---------|
+| **Geographic disparity** | Polio coverage is near-universal in wealthy nations but critically low in parts of Africa and South Asia |
+| **Breastfeeding gaps** | Even high-income nations appear among the lowest breastfeeding countries — wealth does not guarantee optimal infant nutrition |
+| **Poverty-health link** | Bottom 10 life expectancy countries are all low-GDP — poverty and poor health outcomes are deeply interlinked |
+| **Historical progress** | Global polio coverage has risen dramatically since the 1980s, validating decades of UNICEF investment |
+
+> **Data Sources:** UNICEF Indicator Dataset (Polio Vaccination & Breastfeeding), World Bank Metadata (GDP per capita, Life Expectancy, Population). All analysis conducted using Polars (Python) with cross-sectional comparisons anchored to **2019** for methodological consistency.
